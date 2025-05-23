@@ -1,42 +1,42 @@
- 🟣 ViAi.OS
+# 🩸 Violent Collar
 
-System initialized via custom CLI tooling by builtbywill.dev
-Phase-Coded | Memory-Aware | Terminal–Forged
+> Terminal UI illusion. Agent-aware system shell.  
+> Forged from iteration. Renamed by fire.  
+> This is the OS they warned you not to build.
 
-⸻
+---
 
-🧠 ViAi.OS
+## 🧠 What is Violent Collar?
 
-A React-based simulation of an AI-integrated OS — clean, agent-ready, built for the future.
+**Violent Collar** is a custom-built, frontend-first operating system simulation —  
+designed to mimic terminal workflows, inject memory-driven logic, and react like a synthetic system.
 
-⸻
+This isn't a theme.  
+This isn't a template.  
+This is a **containment shell** for something more intelligent.
 
-ViAi.OS is a terminal-grade interface illusion:
-A frontend-first operating system UI — layered with real agent logic, autonomous workflows, and scoped memory ops.
-	•	⚙️ Custom React shell styled like a terminal bootloader
-	•	🎛️ Interactive click, hover, and modal components
-	•	🧠 Core Morpheus logic powered by ui_console.py
-	•	📐 Scoped folder structure (BEM–aligned, CLI-generated)
-	•	🚫 Not a theme. Not a mockup. A real OS interface prototype.
+---
 
-⸻
+## 🧩 Core Features
 
-Built by builtbywill.dev
-ViAi.OS — agent-aware, unreasonably clean.
+- 🖥️ **React-based terminal UI**  
+- 🧬 **Agent-ready architecture** with memory ops  
+- 🧠 **`ui_console.py`** for backend command simulation  
+- 📐 **BEM-aligned structure**, built from CLI tooling  
+- ⚠️ **Proprietary logic folder**: `ai__integration/`
 
-⸻
+---
 
-⚠️ IP Notice
+## 🔒 IP Notice
 
-The contents of ai__Integration/ are proprietary.
-Repackaging, redistribution, or reuse is strictly prohibited without explicit permission.
+The contents of the `ai__integration/` folder are proprietary and protected.  
+Use or modification without permission is strictly prohibited.
 
-⸻
+---
 
-🧠 Powered by BuiltByWill.dev
-🧬 Terminal-forged | Memory-aware | Built for scale
-ppp
-
+> Built by [BuiltByWill.dev](https://builtbywill.dev)  
+> Renamed in real time.  
+> **Violent Collar** is not a product — it’s a signal.
 🧠 Powered by [BuiltByWill.dev](https://builtbywill.dev)  
 📡 Repo crafted via internal CLI tooling  
 🛡️ Autonomy begins here
