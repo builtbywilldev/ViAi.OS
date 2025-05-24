@@ -1,60 +1,47 @@
-
-🟣 Violet Collar 
-
 > This repo was generated using a custom CLI tooling system by [builtbywill.dev](https://builtbywill.dev)  
 > Phase-Coded | Method-Signed | Terminal–Forged
 
 ---
 
- — OS Simulation
+# 🩸 Violent Collar
 
-    Generated using a custom CLI system by https://www.builtbywill.dev
-    Phase-Coded | Method-Signed | Terminal–Forged
+> Terminal UI illusion. Agent-aware system shell.  
+> Forged from iteration. Renamed by fire.  
+> This is the OS they warned you not to build.
 
-🧠 What is Violet Collar?
+---
 
-Violet Collar is a mythic-grade, frontend-first OS simulation:
-A React-powered terminal illusion layered with AI logic, agent workflows, and real memory hooks.
+## 🧠 What is Violent Collar?
 
-This isn’t a theme. It’s not a dashboard.
-It’s a system shell — built for signal integrity and mythic UI precision.
-🔧 Features
+**Violent Collar** is a custom-built, frontend-first operating system simulation —  
+designed to mimic terminal workflows, inject memory-driven logic, and react like a synthetic system.
 
-    Custom OS UI (desktop + mobile illusion)
+This isn't a theme.  
+This isn't a template.  
+This is a **containment shell** for something more intelligent.
 
-    Click, hover, modal, and terminal-style components
+---
 
-    Core Morpheus console logic integrated via ui_console.py
+## 🧩 Core Features
 
-    Fully structured folder hierarchy — BEM–aligned, CLI-generated
+- 🖥️ **React-based terminal UI**  
+- 🧬 **Agent-ready architecture** with memory ops  
+- 🧠 **`ui_console.py`** for backend command simulation  
+- 📐 **BEM-aligned structure**, built from CLI tooling  
+- ⚠️ **Proprietary logic folder**: `ai__integration/`
 
-    Proprietary logic modules housed in ai__integration/
+---
 
-📁 Project Structure
+## 🔒 IP Notice
 
-    violet_collar_ui/ – Frontend illusion layer
+The contents of the `ai__integration/` folder are proprietary and protected.  
+Use or modification without permission is strictly prohibited.
 
-    ai__integration/ – Morpheus AI logic (locked)
+---
 
-    scripts/ – Internal CLI tooling
-
-    LICENSE – Proprietary License
-
-    README.md – This file
-
-⚠️ IP Notice
-
-The ai__integration/ directory contains proprietary agent logic and OS behavior engines.
-Use, redistribution, or reimplementation of this logic is strictly prohibited without written permission.
-🧠 BuiltByWill.dev
-
-This project was forged inside the BuiltByWill dev lab — a tactical frontend ecosystem for memory-aware systems.
-Visit: https://www.builtbywill.dev
-Powered by autonomy. Sharpened through myth.
-
-📡 Push frequency: Daily
-🧪 Current phase: UI Simulation + React FX
-🛠️ Status: In development — system shell online
+> Built by [BuiltByWill.dev](https://builtbywill.dev)  
+> Renamed in real time.  
+> **Violent Collar** is not a product — it’s a signal.
 
 ---
 
