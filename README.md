@@ -1,11 +1,12 @@
-# 🟥 Red_Collar–OS
+
+🟣 Violet Collar 
 
 > This repo was generated using a custom CLI tooling system by [builtbywill.dev](https://builtbywill.dev)  
 > Phase-Coded | Method-Signed | Terminal–Forged
 
 ---
 
-🟣 Violet Collar — OS Simulation
+ — OS Simulation
 
     Generated using a custom CLI system by https://www.builtbywill.dev
     Phase-Coded | Method-Signed | Terminal–Forged
